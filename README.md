@@ -14,7 +14,7 @@ The app does not rely on any other services, so you can run it locally without a
 
 - [Rust](https://www.rust-lang.org/tools/install)
 
-### Running the app
+### Running the apps
 
 To run the app, clone the repo, open a terminal, and navigate to the `product-service` directory. Then run the following command:
 
